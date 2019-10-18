@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" Title="Registrar un inicio de sesión externo" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RegisterExternalLogin.aspx.cs" Inherits="WebApplication1.Account.RegisterExternalLogin" %>
+﻿<%@ Page Language="C#" Title="Registrar un inicio de sesión externo" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RegisterExternalLogin.aspx.cs" Inherits="PoCNetClienteJava.Account.RegisterExternalLogin" %>
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
     <hgroup class="title">
         <h1>Registrar con su cuenta <%: ProviderDisplayName %></h1>

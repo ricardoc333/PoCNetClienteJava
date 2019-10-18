@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="OpenAuthProviders.ascx.cs" Inherits="WebApplication1.Account.OpenAuthProviders" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="OpenAuthProviders.ascx.cs" Inherits="PoCNetClienteJava.Account.OpenAuthProviders" %>
 
 <fieldset class="open-auth-providers">
     <legend>Iniciar sesión con otro servicio</legend>
