@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.Routing;
 using System.Web.Security;
-using WebApplication1;
+using PoCNetClienteJava;
 
-namespace WebApplication1
+namespace PoCNetClienteJava
 {
     public class Global : HttpApplication
     {

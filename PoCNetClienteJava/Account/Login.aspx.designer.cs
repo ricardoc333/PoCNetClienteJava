@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1.Account
+namespace PoCNetClienteJava.Account
 {
 
 
@@ -30,6 +30,6 @@ namespace WebApplication1.Account
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::WebApplication1.Account.OpenAuthProviders OpenAuthLogin;
+        protected global::PoCNetClienteJava.Account.OpenAuthProviders OpenAuthLogin;
     }
 }

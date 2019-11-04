@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WebApplication1
+namespace PoCNetClienteJava
 {
     public partial class _Default : Page
     {
@@ -17,7 +17,7 @@ namespace WebApplication1
         {
             try
             {
-                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://localhost:8080/Java-Spring-Hello-World-Service/hello");
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://10.0.2.2:8080/Java-Spring-Hello-World-Service/hello");
                 // Set some reasonable limits on resources used by this request
                 request.MaximumAutomaticRedirections = 4;
                 request.MaximumResponseHeadersLength = 4;
