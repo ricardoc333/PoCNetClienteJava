@@ -17,7 +17,7 @@
     </section>
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <h3>El servicio Java de la PoC entrega: <%:this.respuestaServicio %></h3>
+    <h3>El servicio Java de la PoC Martes 16.37 entrega: <%:this.respuestaServicio %></h3>
     <ol class="round">
         <li class="one">
             <h5>Getting Started</h5>
